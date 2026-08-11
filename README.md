@@ -20,6 +20,9 @@ Cowrie SSH Honeypot Integration with Microsoft Sentinel
 <img width="1910" height="941" alt="{39235C93-ADCA-4C48-BF6A-E036EC58E710}" src="https://github.com/user-attachments/assets/b2e837cf-84ca-4d6c-8ddd-aa5b0e5acdbd" />
 
 - Problem Solved: The transformation was validated successfully and saved. The Azure Monitor Agent was restarted to force it to pull the updated DCR configuration, and fresh SSH test sessions were generated against the honeypot to produce new log entries for validation
+- Verification & Final Result: KQL query was used to confirm successful ingestion and field parsing: 
   
 <img width="1908" height="943" alt="{B42ED1FB-E06B-4A1C-8D4D-F0C68DDB2C7A}" src="https://github.com/user-attachments/assets/17cd42c3-14b2-4ead-ac31-592df811fe9e" />
+
+<img width="1072" height="327" alt="{2A7ADBFB-A3C3-4BF3-8832-B2C0DB1FEF95}" src="https://github.com/user-attachments/assets/9475699d-f989-4471-8519-637d4c767d5e" />
 
