@@ -26,3 +26,11 @@ Cowrie SSH Honeypot Integration with Microsoft Sentinel
 
 <img width="1072" height="327" alt="{2A7ADBFB-A3C3-4BF3-8832-B2C0DB1FEF95}" src="https://github.com/user-attachments/assets/9475699d-f989-4471-8519-637d4c767d5e" />
 
+## Analytics Rule & Email Notification
+- An Analytics Rule was configured in Microsoft Sentinel to automatically detect suspicious activity captured by the Cowrie honeypot, based on the parsed CowrieHoneypot_CL table
+<img width="1886" height="969" alt="{0388E479-9DCE-4D83-8323-2B5121BE1CC7}" src="https://github.com/user-attachments/assets/99dd52fb-bfc7-4629-b351-5aa221e2127e" />
+
+<img width="1179" height="2080" alt="IMG-7438" src="https://github.com/user-attachments/assets/733f0bf5-a56d-4e8f-a3b1-efc99e2e1469" />
+
+<img width="1172" height="2046" alt="IMG-7439" src="https://github.com/user-attachments/assets/22d18e36-7198-46af-8f26-3715413b3a19" />
+
