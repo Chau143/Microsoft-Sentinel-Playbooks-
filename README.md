@@ -17,6 +17,9 @@ Cowrie SSH Honeypot Integration with Microsoft Sentinel
  - Problem: The resulting table contained only default system columns( TimeGenerated, TenantId, Type, _ResourceId). No RawData or parsed data were present, and running getschema against the table confirmed the expected structured fields simply did not exist.
  - Root Cause Analysis: The current supported pipeline - AMA + Data Collection Rules (DCR)- behaves differently: raw JSON log content is not automatically flattened into columns. An explicit Transform step( a KQL-based JSON parsing rule) must be defined within the DCR for structured fields like eventid and src_ip to be extracted and populated correctly.
 
- <img width="1920" height="1080" alt="{DF201733-3E47-4805-8D91-2E09BD153934}" src="https://github.com/user-attachments/assets/b48d4489-f3e4-4875-82de-edff4128530d" />
+<img width="1910" height="941" alt="{39235C93-ADCA-4C48-BF6A-E036EC58E710}" src="https://github.com/user-attachments/assets/b2e837cf-84ca-4d6c-8ddd-aa5b0e5acdbd" />
 
+- Problem Solved: The transformation was validated successfully and saved. The Azure Monitor Agent was restarted to force it to pull the updated DCR configuration, and fresh SSH test sessions were generated against the honeypot to produce new log entries for validation
+  
+<img width="1908" height="943" alt="{B42ED1FB-E06B-4A1C-8D4D-F0C68DDB2C7A}" src="https://github.com/user-attachments/assets/17cd42c3-14b2-4ead-ac31-592df811fe9e" />
 
