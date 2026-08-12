@@ -63,3 +63,4 @@ Cowrie SSH Honeypot Integration with Microsoft Sentinel
 - Added Microsoft Sentinel to Log Analytics Workspace
 <img width="1906" height="597" alt="{23A82BDD-ECE0-4A9B-94BA-67FE0279D77C}" src="https://github.com/user-attachments/assets/03a8c63e-8873-4066-b41b-2b28476c2bad" />
 
+- Created Sentinel Workbook to visualize where the successful and failure logon are coming from 
