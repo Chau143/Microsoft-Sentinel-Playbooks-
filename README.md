@@ -40,8 +40,19 @@ Cowrie SSH Honeypot Integration with Microsoft Sentinel
 
 <img width="1907" height="1080" alt="image" src="https://github.com/user-attachments/assets/cae50fce-be69-4b09-82a4-739a5738d62f" />
 
-- Data Collection Rule (DCR) for Windows Event Logs (Specifically for successful and failed logins with EventID 4624 & 4625)
-- 
+-Data Collection Rule (DCR) configuration for "Windows Event Logs" selected, with XPath filter for EventID 4624 for successful logon and 4625 for failure logon
+  
 <img width="1910" height="955" alt="{7FDF722D-B05A-49CD-9A3B-B65BC4E1B8CE}" src="https://github.com/user-attachments/assets/abf50cfe-fac1-4acc-82e5-521e7c851047" />
 
+- Verifying Agent Connectivity- Confirmed Azure Monitor Agent connectivity - The Windows VM is successfully reporting to the workspace 
+
+<img width="1909" height="970" alt="{64B8DD6D-3713-4CEB-9BDA-0EBFE53B10EB}" src="https://github.com/user-attachments/assets/2ef453f0-e53c-43de-bb0b-9ecfe183af99" />
+
+- Generating Test Logon Activity- Remote Desktop Connection dialog/ successful and failure RDP login attempt
+
+<img width="1911" height="973" alt="{8C1CFB1A-049B-4956-AF9B-0D3D132E4F69}" src="https://github.com/user-attachments/assets/bad9f49f-d869-43db-850b-d87e10d53501" />
+
+- Successful Logon Query( EventID 4624)- KQL query editor with the 4624 query and populated results table
+
+<img width="1893" height="953" alt="{8E7F7ED9-DAE1-4308-8B1A-8CF3F27C3D38}" src="https://github.com/user-attachments/assets/97bbce40-d9b4-4380-a627-0bcad90f95e6" />
 
