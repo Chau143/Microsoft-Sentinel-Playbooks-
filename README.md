@@ -38,7 +38,8 @@ Cowrie SSH Honeypot Integration with Microsoft Sentinel
 - Windows VM successfully deployed and running, with a public IP assigned for remote desktop connection 
 <img width="1906" height="982" alt="{53A43D04-4BBC-4D82-A467-05CBEFDE4086}" src="https://github.com/user-attachments/assets/036b1517-0751-4935-857d-e8b41782201b" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/be695a89-8f51-40ed-af9c-6b85c7d8ab22" />
+<img width="1907" height="1080" alt="image" src="https://github.com/user-attachments/assets/cae50fce-be69-4b09-82a4-739a5738d62f" />
+
 
 
 
