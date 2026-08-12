@@ -52,7 +52,14 @@ Cowrie SSH Honeypot Integration with Microsoft Sentinel
 
 <img width="1911" height="973" alt="{8C1CFB1A-049B-4956-AF9B-0D3D132E4F69}" src="https://github.com/user-attachments/assets/bad9f49f-d869-43db-850b-d87e10d53501" />
 
-- Successful Logon Query( EventID 4624)- KQL query editor with the 4624 query and populated results table
+- Successful Logon Query(EventID 4624)- KQL query editor with the 4624 query and populated results table
 
 <img width="1893" height="953" alt="{8E7F7ED9-DAE1-4308-8B1A-8CF3F27C3D38}" src="https://github.com/user-attachments/assets/97bbce40-d9b4-4380-a627-0bcad90f95e6" />
+
+- Failure Logon Query(EventID 4625) - KQL query editor with the 4625 query and populated results table
+
+<img width="1912" height="959" alt="{0B09CF69-AA8B-4619-B1A6-01FAC23E479B}" src="https://github.com/user-attachments/assets/06698a5b-d2a8-4a3b-bff1-ebdb6cedf42c" />
+
+- Added Microsoft Sentinel to Log Analytics Workspace
+<img width="1906" height="597" alt="{23A82BDD-ECE0-4A9B-94BA-67FE0279D77C}" src="https://github.com/user-attachments/assets/03a8c63e-8873-4066-b41b-2b28476c2bad" />
 
