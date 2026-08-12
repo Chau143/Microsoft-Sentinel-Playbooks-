@@ -40,6 +40,8 @@ Cowrie SSH Honeypot Integration with Microsoft Sentinel
 
 <img width="1907" height="1080" alt="image" src="https://github.com/user-attachments/assets/cae50fce-be69-4b09-82a4-739a5738d62f" />
 
-
+- Data Collection Rule (DCR) for Windows Event Logs (Specifically for successful and failed logins with EventID 4624 & 4625)
+- 
+<img width="1910" height="955" alt="{7FDF722D-B05A-49CD-9A3B-B65BC4E1B8CE}" src="https://github.com/user-attachments/assets/abf50cfe-fac1-4acc-82e5-521e7c851047" />
 
 
