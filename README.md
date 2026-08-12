@@ -2,7 +2,7 @@
 Cowrie SSH Honeypot Integration with Microsoft Sentinel 
 ## Part 1- This part of the project covers deploying a Cowrie SSH Honeypot on an Azure Linux VM and successfully ingesting its logs into Microsoft Sentinel (Log Analytics) for security monitoring and analysis 
 
- # Honeypot Deployment 
+ # Section1: Honeypot Deployment 
 <img width="1469" height="770" alt="{A2D05FAD-E090-4D55-85F4-C6BB16E5C812}" src="https://github.com/user-attachments/assets/3b434afe-3221-4dd4-a559-e0f4cec2e27c" />
 
 - Cowrie honeypot successfully deployed inside a Python virtual environment (Python 3.12) and running as a background process, listening for simulated SSH connections on port 2222 
@@ -33,4 +33,12 @@ Cowrie SSH Honeypot Integration with Microsoft Sentinel
 <img width="1179" height="2080" alt="IMG-7438" src="https://github.com/user-attachments/assets/733f0bf5-a56d-4e8f-a3b1-efc99e2e1469" />
 
 <img width="1172" height="2046" alt="IMG-7439" src="https://github.com/user-attachments/assets/22d18e36-7198-46af-8f26-3715413b3a19" />
+
+# Section2: Windows VM Deployment & Security Event Monitoring 
+- Windows VM successfully deployed and running, with a public IP assigned for remote desktop connection 
+<img width="1906" height="982" alt="{53A43D04-4BBC-4D82-A467-05CBEFDE4086}" src="https://github.com/user-attachments/assets/036b1517-0751-4935-857d-e8b41782201b" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/be695a89-8f51-40ed-af9c-6b85c7d8ab22" />
+
+
 
