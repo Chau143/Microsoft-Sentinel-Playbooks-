@@ -80,3 +80,13 @@ _ Successful logons
 
 <img width="1070" height="639" alt="{ECB15A2E-1610-4496-91FF-968BEC34B7CA}" src="https://github.com/user-attachments/assets/e7e9324c-69f0-4be5-978c-a1414477e093" />
 
+#Section3: Automated IP Reputation Enrichment(Logic App Playbook + AbuseIPDB)
+- Playbook Creation: Created a new Azure Logic App to serve as an automated playbook for enriching incoming security incidents with AbuseIPDB threat intelligence data
+<img width="1916" height="959" alt="{8AEC4D98-2A3C-4E5C-A144-4EB7B180DE58}" src="https://github.com/user-attachments/assets/a9998d95-2a32-442e-9cfe-5f8b704dfd5d" />
+
+<img width="1903" height="973" alt="{AD79F4A9-A98F-4FED-8DB3-501C1A429DE6}" src="https://github.com/user-attachments/assets/267f700f-9c51-41d1-b072-299a52b5915e" />
+
+
+- Logic App Overview: Logic App Playbook successfully deployed and enable, ready to be triggered by Microsoft Sentinel 
+
+<img width="1904" height="973" alt="{43C6CFEA-FC24-4FC6-AFAE-B064D7A727EE}" src="https://github.com/user-attachments/assets/ce5d6d38-4c9b-4733-94c9-2f8ce52e2ec7" />
