@@ -88,5 +88,12 @@ _ Successful logons
 
 
 - Logic App Overview: Logic App Playbook successfully deployed and enable, ready to be triggered by Microsoft Sentinel 
+<img width="1911" height="516" alt="{492DBCAC-4FE2-4BD0-85AC-C480B8205DD7}" src="https://github.com/user-attachments/assets/8f5a55ab-1bd9-441b-80f3-25b70ca8d993" />
 
 <img width="1904" height="973" alt="{43C6CFEA-FC24-4FC6-AFAE-B064D7A727EE}" src="https://github.com/user-attachments/assets/ce5d6d38-4c9b-4733-94c9-2f8ce52e2ec7" />
+- Successful SSH Login Playbook with its result: When any events match query, the incident created then that incident is created and playbook(logic app) should then run and automatically enrich an IP 
+<img width="1904" height="977" alt="{28086E55-59C5-4D59-BDBF-F6622D16C227}" src="https://github.com/user-attachments/assets/8564a707-8d5e-4aa2-964a-91cd518dbf5e" />
+
+<img width="1907" height="972" alt="{83A26520-E213-4C21-B22B-E9BEC87A8ABA}" src="https://github.com/user-attachments/assets/32525e6f-959f-40f9-ba4a-2aee95bed150" />
+
+<img width="1914" height="973" alt="{D9788B6B-4B67-4E2D-9940-50E0EEE31A2F}" src="https://github.com/user-attachments/assets/a05dc9c8-5a4a-4e41-bfaa-52e1a1596c5d" />
