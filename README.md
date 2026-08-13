@@ -74,3 +74,9 @@ _ Failure logons
 
 
 <img width="931" height="682" alt="{EA87B1B4-332F-4EF0-BE34-07716FE6A71B}" src="https://github.com/user-attachments/assets/3e755c45-a539-4d92-9403-c9484047f283" />
+
+_ Successful logons 
+<img width="1913" height="962" alt="{E1BD8925-A6AF-4890-95A6-7E896D199644}" src="https://github.com/user-attachments/assets/ef967b12-b56f-446a-924c-9f59263145c8" />
+
+<img width="1070" height="639" alt="{ECB15A2E-1610-4496-91FF-968BEC34B7CA}" src="https://github.com/user-attachments/assets/e7e9324c-69f0-4be5-978c-a1414477e093" />
+
