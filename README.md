@@ -1,5 +1,4 @@
-# Microsoft-Sentinel-Playbooks-
-Cowrie SSH Honeypot Integration with Microsoft Sentinel 
+
 ## Part 1- This part of the project covers deploying a Cowrie SSH Honeypot on an Azure Linux VM and successfully ingesting its logs into Microsoft Sentinel (Log Analytics) for security monitoring and analysis 
 
  # Section1: Honeypot Deployment 
